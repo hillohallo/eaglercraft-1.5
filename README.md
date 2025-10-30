@@ -1,1 +1,1 @@
-# eaglercraft-1.5
+# eaglercraft-1.5.2
